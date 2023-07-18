@@ -1,0 +1,99 @@
+.container {
+    width: 942px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.body {
+    font-family: Montserrat;
+}
+
+.header_logo {
+    color: #FED136;
+text-align: center;
+font-family: Bilbo Swash Caps;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 41px; /* 113.889% */
+letter-spacing: 1.3px;
+text-decoration: none;
+}
+
+.header_link {
+    color: #FED136;
+text-align: center;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 41px; /* 292.857% */
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.services_title {
+    color: #222;
+text-align: center;
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 75px; /* 187.5% */
+letter-spacing: -1px;
+text-transform: uppercase;
+}
+
+.services_item-title {
+    color: #222;
+text-align: center;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 75px; /* 416.667% */
+letter-spacing: -0.45px;
+}
+
+.services_item-descr {
+    color: #777;
+text-align: center;
+font-family: RobotoSlab;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.35px;
+}
+
+.contact_title {
+    color: #FFF;
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -1px;
+text-transform: uppercase;
+}
+
+.contact_btn {
+    color: #FFF;
+text-align: center;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.contact {
+    background-color: #222;
+    height: 679px;
+}
+
+.services {
+    background: rgba(0, 0, 0, 0.00);
+}
+
